@@ -20,5 +20,6 @@ To provide a **secure, trustless, and user-friendly wallet solution** that minim
 - Add **biometric or off-chain verification** for extra recovery security.
 
 Contract Address : 0xd9145CCE52D386f254917e481eB44e9943F39138
-<img width="1900" height="967" alt="image" src="https://github.com/user-attachments/assets/6b99a94f-ed38-4df4-b263-feccccbf06de" />
+<img width="1892" height="906" alt="image" src="https://github.com/user-attachments/assets/d1279770-d5b9-4f96-b227-59b0c856f0a9" />
+
 
